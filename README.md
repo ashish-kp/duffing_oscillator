@@ -7,4 +7,8 @@ A non-linear oscillator with a driving force and frictional force acting on it e
 - For different values of x and xdot, the particle damps and down and settles into one of the two stable points.
 - Due to the chaotic nature of the system, very slight variations in the values of position and velocity (assuming configuration space and not phase space) make the particle settle intoo a different stable point.
 
+# Fractal
+
+The resulting fractal within the range of -60 < x < 60, and -60 < x_dot < 60, with a precision of 0.5 is below:
+
 ![image](https://github.com/ashish-kp/duffing_oscillator/blob/main/images/duffing200by200.png)
