@@ -1,4 +1,4 @@
-# duffing_oscillator
+# Duffing Oscillator
 A non-linear oscillator with a driving force and frictional force acting on it exhibits chaos.
 
 - The Duffing Oscillator is a very famous non-linear oscillator used to study chaos. [More Here](https://en.wikipedia.org/wiki/Duffing_equation)
