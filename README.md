@@ -6,3 +6,5 @@ A non-linear oscillator with a driving force and frictional force acting on it e
 - As the system is one-dimensional, the phase space (or configuration space, for our present discussion) has two parametrs, x, and the derivative of x, with respect to time.
 - For different values of x and xdot, the particle damps and down and settles into one of the two stable points.
 - Due to the chaotic nature of the system, very slight variations in the values of position and velocity (assuming configuration space and not phase space) make the particle settle intoo a different stable point.
+
+![image](https://github.com/ashish-kp/duffing_oscillator/blob/main/images/duffing200by200.png)
