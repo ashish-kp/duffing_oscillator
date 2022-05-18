@@ -11,4 +11,4 @@ A non-linear oscillator with a driving force and frictional force acting on it e
 
 The resulting fractal within the range of -60 < x < 60, and -60 < x_dot < 60, with a precision of 0.5 is below:
 
-![image](https://github.com/ashish-kp/duffing_oscillator/blob/main/images/duffing200by200.png)
+![image](https://github.com/ashish-kp/duffing_oscillator/blob/main/images/minus5to5_t200.png)
